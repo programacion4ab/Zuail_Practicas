@@ -1,0 +1,47 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+header{
+	padding:25px;
+	text-align: center;
+    margin-left: 10px;
+	margin-right: 10px; 
+}
+
+section{
+text-align: center;
+}
+li a{
+	 text-decoration: none;
+	 color:black;
+	 font-size: 25px;
+	 
+}
+li{
+	list-style-type: none;
+	background-color: #FFF0F5;
+	text-align: center;
+	color:black;
+	padding:0px;
+	margin-top:50px;
+    margin-left: 50px;
+	margin-right: 50px; 
+	color: #000000;
+	font-size: 30px;
+}
+body{
+	background-image: url(../img/galaxy.gif);
+	padding-top:20px;
+}
+article{
+	margin-top:20px;
+}
+footer{
+	text-align: center;
+	padding-bottom:0px;
+    margin-left:0;
+	margin-right: 0px;
+	margin-top:200px;
+	background-color: #FFF0F5;
+}

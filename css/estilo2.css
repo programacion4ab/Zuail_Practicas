@@ -1,0 +1,57 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../font/Marseline.ttf);
+}
+header{
+	background-color:pink;
+}
+h1{
+	padding: 40px ;
+	font-family: Marseline;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+	color:darkblue;
+	font-family: "Arial";
+	font-size:25px;
+	padding-left: 60px;
+	text-align:center;
+}
+section{
+	float: left;
+	font-family: "Arial";
+	font-size:15px;
+	text-align: justify;
+	padding:5px;
+	padding-left: 40px;
+}
+#lista1{
+	list-style: none;
+	margin:20px;
+	padding:0;
+	overflow: hidden;
+}
+.img{
+	text-align: center;
+}
+aside{
+	float:left;
+}
+article{
+	margin-bottom:200px;
+}
+h3{
+	color:pink;
+}
+h4{
+	color:#C71585;
+}
+footer{
+	clear: both;
+	background-color:;
+	padding:20px;
+	text-align: justify;
+	font-size: 20px;
+}

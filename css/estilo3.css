@@ -1,0 +1,44 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../font/Marseline.ttf);
+}
+header{
+	text-align: center;
+	background-image: url(../img/back5.jpg);
+	padding: 40px;
+}
+h1{
+	font-family: Marseline;
+	color:#FF8364;
+	background-color:#ECF0F1;
+	font-size: 20px;
+	background-size: 25px;
+	text-align: center;
+}
+h2{
+	font-family: Marseline;
+	font-size: 25px;
+	color:#FF8364;
+	background-color:#ECF0F1;
+	text-align: center;
+}
+h3{
+	color:#606370;
+	font-family: "Arial";
+	font-size:15px;
+	padding-left: 40px;
+}
+section{
+	font-family: "Arial";
+	font-size:20px;
+	text-align: justify;
+	padding-left:50px;
+}
+figure{
+	padding-left:300px;
+}
+footer{
+	padding: 20px;
+	font-size:50px;
+    background-color:#FFB6B9;
+}
